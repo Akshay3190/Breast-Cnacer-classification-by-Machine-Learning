@@ -6,11 +6,11 @@ Analyzed the data of 569 patients & classified their cancer type by using Logist
 According to the dataset, samples were collected by the biopsy method namely Fine needle aspiration.
 <br>
 <br>
-[Fine needle aspiration](https://github.com/Akshay3190/Breast-Cnacer-classification-by-Machine-Learning/assets/149465028/1d5cbed9-2168-41b7-80ca-73559bcc4fa0)
+(https://github.com/Akshay3190/Breast-Cnacer-classification-by-Machine-Learning/assets/149465028/1d5cbed9-2168-41b7-80ca-73559bcc4fa0)
 <br>
 <br>
 Samples tested & divided into 2 cancer types, one is Benign & other is Malignant.
-[benign-tumors-vs-cancerous-tumors](https://github.com/Akshay3190/Breast-Cnacer-classification-by-Machine-Learning/assets/149465028/aeb88d95-5c33-4243-b42a-db39209a92b5)
+(https://github.com/Akshay3190/Breast-Cnacer-classification-by-Machine-Learning/assets/149465028/aeb88d95-5c33-4243-b42a-db39209a92b5)
 <br>
 <br>
 We need to train the model with Logistic regression & run accordingly so that we can callsify the new samaples between these 2 cancer types.
